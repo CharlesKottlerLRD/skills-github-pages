@@ -1,5 +1,5 @@
 ---
-title: CharlesKottlerLRD GitHub Blog
+title: CharlesKottlerLRD GitHub blog
 ---
 # Section 1
 
