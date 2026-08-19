@@ -10,3 +10,7 @@ title: CharlesKottlerLRD GitHub blog
 - [ ] Topic 3
 
 ## Section 1-2
+
+1. [ ] Topic 1
+1. [ ] Topic 2
+1. [ ] Topic 3
